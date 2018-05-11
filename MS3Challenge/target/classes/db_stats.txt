@@ -1,0 +1,5 @@
+Log File!
+--------------------------
+# of records received: 6002
+# of records successful: 5876
+# of records failed: 126
